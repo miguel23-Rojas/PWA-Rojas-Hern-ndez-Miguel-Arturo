@@ -1,0 +1,81 @@
+.barra {
+    display: flex;
+}
+.titulo {
+    width: 30%;
+}
+.menu {
+    display: flex;
+}
+.menu a {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+section{
+    width: 60%;
+    float: left;
+    height: 500px;
+    text-align: justify;
+    border: solid 3px black;
+    background-color: whitesmoke;
+    border-radius: 15px;
+
+}
+ section p{
+    margin-right: 30px;
+}
+aside{
+    width: 30%;
+    float: right;
+    height: 550px;
+    border: solid 3px black;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+#lol{
+height: 250px;
+}
+body{
+    background-image: url('../Imagenes/ovni.jpg');
+}
+#mel{
+    height: 50px;
+}
+#mal{
+    height: 50px;
+}
+#mo{
+    font-size: 28px;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+footer {
+    border: solid 3px black;
+    height: 200px;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+#mil {
+    height: 50px;
+}
+
+.po {
+    
+}
+#j{
+    color: black
+    
+}
